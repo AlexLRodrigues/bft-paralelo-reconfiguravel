@@ -1,4 +1,7 @@
-BFT-SMaRt v0.8
+O atual projeto representa a implementação da abordagem replicação máquina de estados paralela e reconfigurável, para maiores informaçes leia o tcc presente no projeto.
+---------
+
+BFT-SMaRt
 ----------
 
 This package contains the BFT-SMaRt source code (src/), binary file (bin/), libraries needed (lib/), documentation (doc/), and configuration files (config/).
