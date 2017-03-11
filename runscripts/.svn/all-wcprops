@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/326/trunk/runscripts
+END
+smartrun.bat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/326/trunk/runscripts/smartrun.bat
+END
+smartrun.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/326/trunk/runscripts/smartrun.sh
+END
+startReplicaYCSB.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/326/trunk/runscripts/startReplicaYCSB.sh
+END
+ycsbClient.sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/326/trunk/runscripts/ycsbClient.sh
+END
+ycsb.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/325/trunk/runscripts/ycsb.sh
+END

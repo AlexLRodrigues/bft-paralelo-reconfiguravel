@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/342/trunk/src/bftsmart/consensus/roles
+END
+Acceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/342/trunk/src/bftsmart/consensus/roles/Acceptor.java
+END
+Proposer.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/341/trunk/src/bftsmart/consensus/roles/Proposer.java
+END

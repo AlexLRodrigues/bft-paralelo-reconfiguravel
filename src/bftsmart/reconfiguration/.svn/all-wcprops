@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/344/trunk/src/bftsmart/reconfiguration
+END
+ReconfigureReply.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/326/trunk/src/bftsmart/reconfiguration/ReconfigureReply.java
+END
+ViewManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/338/trunk/src/bftsmart/reconfiguration/ViewManager.java
+END
+ServerViewController.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/344/trunk/src/bftsmart/reconfiguration/ServerViewController.java
+END
+VMServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/338/trunk/src/bftsmart/reconfiguration/VMServices.java
+END
+VMMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/338/trunk/src/bftsmart/reconfiguration/VMMessage.java
+END
+View.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/326/trunk/src/bftsmart/reconfiguration/View.java
+END
+ClientViewController.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/338/trunk/src/bftsmart/reconfiguration/ClientViewController.java
+END
+ReconfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/326/trunk/src/bftsmart/reconfiguration/ReconfigurationTest.java
+END
+ViewController.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/339/trunk/src/bftsmart/reconfiguration/ViewController.java
+END
+Reconfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/338/trunk/src/bftsmart/reconfiguration/Reconfiguration.java
+END
+ReconfigureRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/326/trunk/src/bftsmart/reconfiguration/ReconfigureRequest.java
+END

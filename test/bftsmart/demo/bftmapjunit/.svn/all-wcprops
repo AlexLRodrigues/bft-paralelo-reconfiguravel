@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/326/trunk/test/bftsmart/demo/bftmapjunit
+END
+LogWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/326/trunk/test/bftsmart/demo/bftmapjunit/LogWriter.java
+END
+KVClientTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/326/trunk/test/bftsmart/demo/bftmapjunit/KVClientTest.java
+END
+ConsoleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/326/trunk/test/bftsmart/demo/bftmapjunit/ConsoleTest.java
+END
+ConsoleLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/326/trunk/test/bftsmart/demo/bftmapjunit/ConsoleLogger.java
+END

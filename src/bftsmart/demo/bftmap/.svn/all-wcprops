@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/344/trunk/src/bftsmart/demo/bftmap
+END
+BFTMapInteractiveClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/336/trunk/src/bftsmart/demo/bftmap/BFTMapInteractiveClient.java
+END
+BFTMapClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/333/trunk/src/bftsmart/demo/bftmap/BFTMapClient.java
+END
+BFTMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/333/trunk/src/bftsmart/demo/bftmap/BFTMap.java
+END
+BFTMapServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/344/trunk/src/bftsmart/demo/bftmap/BFTMapServer.java
+END
+BFTMapBatchServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/326/trunk/src/bftsmart/demo/bftmap/BFTMapBatchServer.java
+END
+BFTMapClientCloudFIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/326/trunk/src/bftsmart/demo/bftmap/BFTMapClientCloudFIT.java
+END
+MapOfMaps.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/326/trunk/src/bftsmart/demo/bftmap/MapOfMaps.java
+END
+BFTMapRequestType.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/336/trunk/src/bftsmart/demo/bftmap/BFTMapRequestType.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/341/trunk/src/bftsmart/consensus/executionmanager
+END
+TimestampValuePair.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/341/trunk/src/bftsmart/consensus/executionmanager/TimestampValuePair.java
+END
+ExecutionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/341/trunk/src/bftsmart/consensus/executionmanager/ExecutionManager.java
+END
+LeaderModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/341/trunk/src/bftsmart/consensus/executionmanager/LeaderModule.java
+END
+Execution.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/341/trunk/src/bftsmart/consensus/executionmanager/Execution.java
+END
