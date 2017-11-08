@@ -1,6 +1,3 @@
-O atual projeto representa a implementação da abordagem replicação máquina de estados paralela e reconfigurável, para maiores informaçes leia o tcc presente no projeto.
----------
-
 BFT-SMaRt
 ----------
 
